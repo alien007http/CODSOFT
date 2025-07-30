@@ -46,7 +46,7 @@ During the internship, I was assigned **3 tasks**, which I have completed and up
 ## 📬 Contact
 If you want to connect or discuss the projects, feel free to reach out:
 
-- GitHub: [YourUsername](https://github.com/alien007http)
+- GitHub: [Shweta Sharma](https://github.com/alien007http)
 - Email: s.sharma945043@gmail.com
 
 ---
